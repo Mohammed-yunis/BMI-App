@@ -8,7 +8,7 @@ This is an simple app , i do bmi screen and claculate result for bmi to user an 
   <Pre>
 
 
-<img src="https://github.com/Mohammed-yunis/BMI-App/assets/91242086/0433e900-3384-4b12-957c-8fc0d06877cd" style="width:150px">      <img src="https://github.com/Mohammed-yunis/BMI-App/assets/91242086/5f64d5a5-3b39-447b-b036-f9d2e11f46a2" style="width:150px">
+<img src="https://github.com/Mohammed-yunis/BMI-App/assets/91242086/d1cc6c7e-b53f-4e8e-a5c4-e037c0a7a555" style="width:150px">      <img src="https://github.com/Mohammed-yunis/BMI-App/assets/91242086/5f64d5a5-3b39-447b-b036-f9d2e11f46a2" style="width:150px">
 
   </Pre>
 </div>
